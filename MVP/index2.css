@@ -1,0 +1,25 @@
+body{
+  margin: 0 auto;
+  background-image: url("img/picture.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 720px;
+}
+
+.container{
+  width: 500px;
+  height: 400px;
+  text-align: center;
+  background-color: rgba(51, 0, 0, 0.5);
+  border-radius: 4px;
+  margin: 0 auto;
+  margin-top: 90px;
+  font-family: 'Special Elite', cursive;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.container img{
+  height: 150px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+
+}
